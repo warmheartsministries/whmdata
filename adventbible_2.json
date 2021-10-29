@@ -2,6 +2,7 @@
   "2": {
     "v": "Genesis 2",
     "m": "And the LORD God commanded the man, saying, 'You may surely eat of every tree of the garden, but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die.' - Genesis 2:16-17 (ESV)",
+    "c": [[2,6,17,26,28],[1,3,7,12,14,16,18]],
     "l": [
       {
         "i": "0",
@@ -23,6 +24,11 @@
         "q": "Why did God create the woman?",
         "a": "God created the woman because from out of all the animals that He created, there is no helper fit for man."
       }
-    ]
+    ],
+    "s": {
+      "h": "Pleased as man with men to dwell \n Jesus, our Emmanuel",
+      "a": "Hark The Herald Angels Sing"
+    },
+    "a": "Enjoy a cup of warm chocolate or apple cider with someone who lives with you."
   }
 }

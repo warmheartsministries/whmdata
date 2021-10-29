@@ -2,6 +2,7 @@
   "1": {
     "v": "Genesis 1",
     "m": "So God created man in his own image, in the image of God he created him; male and female he created them. - Genesis 1:27 (ESV)",
+    "c": [[3,12,16,18],[1,3,7,12,14,16,18]],
     "l": [
       {
         "i": "0",
@@ -18,6 +19,11 @@
         "q": "What were God's initial commands to man?",
         "a": "God commanded man to 'Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.'"
       }
-    ]
+    ],
+    "s": {
+      "h": "Pleased as man with men to dwell \n Jesus, our Emmanuel",
+      "a": "Hark The Herald Angels Sing"
+    },
+    "a": "Enjoy a cup of warm chocolate or apple cider with someone who lives with you."
   }
 }
