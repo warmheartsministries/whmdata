@@ -1,23 +1,28 @@
 {
   "5": {
-    "v": "Leviticus 20:26 & Leviticus 26",
-    "m": "You shall be holy to me, for I the Lord am holy and have separated you from the peoples, that you should be mine. - Leviticus 20:26 (ESV)",
-    "c": [[3,18],[3,11,18,23],[3,9,11,14,18,23]],
+    "v": "Leviticus 4:27-31 & Psalm 40:6-8",
+    "m": "I delight to do your will, O my God; your law is within my heart. - Psalm 40:8 (ESV)",
+    "c": [[5,14],[1,5,10,14],[1,5,8,10,14]],
     "l": [
       {
         "i": "0",
-        "q": "From Leviticus 26, how does God treat obedience and disobedience?",
-        "a": "Leviticus 26 tells us that God blesses those who obey Him and punishes those who disobey. God does not take sin lightly."
+        "q": "In Leviticus 4:27-30, what kind of animal should common people sacrifice as atonement for their sins?",
+        "a": "The person should sacrifice a female goat without blemish."
       },
       {
         "i": "1",
-        "q": "What hope does God give to His people who disobey Him?",
-        "a": "If the people would be humble enough to confess their sins, then God will remember the covenant He's made with their forefathers and will remember their land."
+        "q": "In the Old Testament, why should people make animal offerings?",
+        "a": "In the Old Testament, people should make animal offerings everytime they sin in order to obtain God's forgiveness."
       },
       {
         "i": "2",
-        "q": "Based on Leviticus 20:26, what kind of people should the Israelites be?",
-        "a": "God has chosen the Israelites to be His people, and that they should be holy because God is holy."
+        "q": "What does Psalm 40:6 foretell?",
+        "a": "Psalm 40:6 foretells that someone will take the place of burnt offerings and sin offerings, and God will not require them anymore."
+      },
+      {
+        "i": "3",
+        "q": "Who is talking in Psalm 40:7-8?",
+        "a": "Jesus Christ is talking in Psalm 40:7-8."
       }
     ],
     "s": {
