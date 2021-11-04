@@ -1,23 +1,29 @@
 {
   "9": {
-    "v": "John 6:22",
-    "m": "Jesus said to them, 'I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst.' - John 6:35 (ESV)",
+    "v": "Matthew 1:18-25",
+    "m": "She will bear a son, and you shall call his name Jesus, for he will save his people from their sins. - Matthew 1:21 (ESV)",
+    "c": [[4,11],[4,11,20],[4,11,15,17,20]],
     "l": [
       {
         "i": "0",
-        "q": "In what way is Christ the fulfillment of the Law and the Prophets?",
-        "a": "The Word was in the beginning with God. The Word was God. All things were made through him. He has life, which is the light of men. He is coming into the world."
+        "q": "What kind of man was Joseph?",
+        "a": "Joseph was a just man, and he was unwilling to put Mary to shame. He was also obedient to God, he took Mary for his wife when he learned that the child in her womb is from the Holy Spirit."
       },
       {
         "i": "1",
-        "q": "In Galatians 5, since Christ has already set us free from the bondage of sin, how then should we live our lives?",
-        "a": "We should not submit again to a yoke of slavery."
+        "q": "What does the name Immanuel mean?",
+        "a": "Immanuel means God is with us."
       },
       {
         "i": "2",
-        "q": "In Galatians 5, what are the fruits of the Spirit?",
-        "a": "Jesus Christ came into his own, but the people did not receive him. But to all who did receive Jesus Christ and believed in his name, he gave the right to become children of God."
+        "q": "Why should Joseph name his son 'Jesus'?",
+        "a": "Joseph should name his son 'Jesus' because Jesus will save his people from their sins."
       }
-    ]
+    ],
+    "s": {
+      "h": "Pleased as man with men to dwell \n Jesus, our Emmanuel",
+      "a": "Hark The Herald Angels Sing"
+    },
+    "a": "Enjoy a cup of warm chocolate or apple cider with someone who lives with you."
   }
 }

@@ -1,23 +1,39 @@
 {
-  "9": {
-    "v": "Matthew 5:17-20 & Galatians 5",
-    "m": "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. - Matthew 5:17 (ESV)",
+  "10": {
+    "v": "John 14:1-14",
+    "m": "Jesus said to him, 'I am the way, and the truth, and the life. No one comes to the Father except through me.' - John 14:6 (ESV)",
+    "c": [[7,10,13],[7,10,13,19,22],[0,7,10,13,16,19,22]],
     "l": [
       {
         "i": "0",
-        "q": "In what way is Christ the fulfillment of the Law and the Prophets?",
-        "a": "The Word was in the beginning with God. The Word was God. All things were made through him. He has life, which is the light of men. He is coming into the world."
+        "q": "Why shouldn't the disciple's hearts be troubled?",
+        "a": "Jesus commanded His disciples to believe in God and to believe in Him. He is leaving to prepare a place for them in His Father's house. And He will come back to take them to be with Him."
       },
       {
         "i": "1",
-        "q": "In Galatians 5, since Christ has already set us free from the bondage of sin, how then should we live our lives?",
-        "a": "We should not submit again to a yoke of slavery."
+        "q": "Who is our way to God, our Father?",
+        "a": "Jesus Christ is our way to God, our Father."
       },
       {
         "i": "2",
-        "q": "In Galatians 5, what are the fruits of the Spirit?",
-        "a": "Jesus Christ came into his own, but the people did not receive him. But to all who did receive Jesus Christ and believed in his name, he gave the right to become children of God."
+        "q": "Which verses describe Jesus' relationship with God, the Father?",
+        "a": "In John 14:10-11, Jesus was telling his disciples that He is in the Father, and the Father is in Him."
+      },
+      {
+        "i": "3",
+        "q": "What did Jesus command those who believe in Him?",
+        "a": "Those who believe in Jesus will also do the works that He do. And whatever they ask in His name, Jesus will do, so that the Father will be glorified in Him."
+      },
+      {
+        "i": "4",
+        "q": "Why then do we do good works?",
+        "a": "We do good works so that God will be glorified."
       }
-    ]
+    ],
+    "s": {
+      "h": "Pleased as man with men to dwell \n Jesus, our Emmanuel",
+      "a": "Hark The Herald Angels Sing"
+    },
+    "a": "Enjoy a cup of warm chocolate or apple cider with someone who lives with you."
   }
 }

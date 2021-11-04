@@ -1,38 +1,29 @@
 {
   "8": {
-    "v": "John 1:1-18",
-    "m": "But to all who did receive him, who believed in his name, he gave the right to become children of God, who were born, not of blood nor of the will of the flesh nor of the will of man, but of God. - John 1:12-13",
+    "v": "Luke 3:1-22",
+    "m": "John answered them all, saying, 'I baptize you with water, but he who is mightier than I is coming, the strap of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and fire.' - Luke 3:16 (ESV)",
+    "c": [[6,14,36,37],[6,9,14,29,36,37,39],[6,9,14,18,23,29,36,37,39]],
     "l": [
       {
         "i": "0",
-        "q": "Who was with God in the beginning? What was being said about him in the Bible reading?",
-        "a": "The Word was in the beginning with God. The Word was God. All things were made through him. He has life, which is the light of men. He is coming into the world."
+        "q": "What was John the Baptist tasked by God to do?",
+        "a": "John the Baptist was told by God to prepare the way for the coming of the Savior by proclaiming baptism of repentance for the forgiveness of sins."
       },
       {
         "i": "1",
-        "q": "Who is the Word?",
-        "a": "Jesus Christ is the Word. Jesus Christ already existed before he was even born on earth. Jesus Christ existed long before the first Christmas day."
+        "q": "What is proof that a person has repented of his sins?",
+        "a": "A person who repents turns away from his sins and bear good fruits in line with God's commands."
       },
       {
         "i": "2",
-        "q": "Based on the Bible reading, how did the people accept Jesus Christ?",
-        "a": "Jesus Christ came into his own, but the people did not receive him. But to all who did receive Jesus Christ and believed in his name, he gave the right to become children of God."
-      },
-      {
-        "i": "3",
-        "q": "What does this verse mean: 'For the law was given through Moses; grace and truth came through Jesus Christ.'?",
-        "a": "Prior to Jesus Christ, the people were under the law, like the 10 Commandments. Any transgressions would have to be paid for by sacrifices and burnt offerings for them to be made right with God again. But God has given us grace through Christ."
-      },
-      {
-        "i": "4",
-        "q": "How did God made manifest His grace to us through Jesus Christ?",
-        "a": "Prior to Jesus Christ, the people were bound by the law, like the 10 Commandments. Any transgressions would have to be paid for by sacrifices and burnt offerings for them to be made right with God again. But God has given us grace through and in Christ."
-      },
-      {
-        "i": "5",
-        "q": "What is the truth?",
-        "a": "Prior to Jesus Christ, the people were bound by the law, like the 10 Commandments. Any transgressions would have to be paid for by sacrifices and burnt offerings for them to be made right with God again. But God has given us grace through and in Christ."
+        "q": "What is the difference between John's baptism and the Jesus Christ's?",
+        "a": "John baptized people with water, but Christ will baptize people with the Holy Spirit and fire."
       }
-    ]
+    ],
+    "s": {
+      "h": "Pleased as man with men to dwell \n Jesus, our Emmanuel",
+      "a": "Hark The Herald Angels Sing"
+    },
+    "a": "Enjoy a cup of warm chocolate or apple cider with someone who lives with you."
   }
 }

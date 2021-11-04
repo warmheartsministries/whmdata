@@ -1,23 +1,29 @@
 {
   "5": {
-    "v": "1 Samuel 11 & Psalm 51",
-    "m": "The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise. - Psalm 51:17 (ESV)",
+    "v": "Leviticus 20:26 & Leviticus 26",
+    "m": "You shall be holy to me, for I the Lord am holy and have separated you from the peoples, that you should be mine. - Leviticus 20:26 (ESV)",
+    "c": [[3,18],[3,11,18,23],[3,9,11,14,18,23]],
     "l": [
       {
         "i": "0",
-        "q": "Based on 1 Samuel 11, against whom did David sin?",
-        "a": "David sinned not only against Uriah and Bathsheba. David sinned against the Lord."
+        "q": "From Leviticus 26, how does God treat obedience and disobedience?",
+        "a": "Leviticus 26 tells us that God blesses those who obey Him and punishes those who disobey. God does not take sin lightly."
       },
       {
         "i": "1",
-        "q": "When David realized that he sinned against God, what did he do?",
-        "a": "David implored God to cleanse him from his sins. He implored God to cast him not away from His presence nor take the Holy Spirit from him. He is asking God to give him back his joy of salvation and to give him an obedient spirit."
+        "q": "What hope does God give to His people who disobey Him?",
+        "a": "If the people would be humble enough to confess their sins, then God will remember the covenant He's made with their forefathers and will remember their land."
       },
       {
         "i": "2",
-        "q": "When we sin against others and against God, what can we do to restore our relationship with God?",
-        "a": "We may try to hide our sins from other people, we may even resort to shifting the blame, but we can never run away from the LORD. God is everywhere and He sees even the motives of our hearts. Instead of running away from God, we need to go to God in prayer and confess our sins. Our gifts and sacrifices will only be displeasing to the LORD if our hearts is not even right with him."
+        "q": "Based on Leviticus 20:26, what kind of people should the Israelites be?",
+        "a": "God has chosen the Israelites to be His people, and that they should be holy because God is holy."
       }
-    ]
+    ],
+    "s": {
+      "h": "Pleased as man with men to dwell \n Jesus, our Emmanuel",
+      "a": "Hark The Herald Angels Sing"
+    },
+    "a": "Enjoy a cup of warm chocolate or apple cider with someone who lives with you."
   }
 }
