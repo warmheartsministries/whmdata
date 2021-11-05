@@ -1,0 +1,130 @@
+{
+  "1": {
+    "t": "Days 1-3",
+    "s": "focus on the first 3 chapters of Genesis - how it all began and the fall of man. It sets the stage for man's need of a Savior.",
+    "r": [
+      {
+        "d": "1",
+        "b": "Genesis 1"
+      },
+      {
+        "d": "2",
+        "b": "Genesis 2"
+      },
+      {
+        "d": "3",
+        "b": "Genesis 3"
+      }
+    ]
+  },
+  "2": {
+    "t": "Days 4-5",
+    "s": "Bible readings provide an answer to the question, 'Who defines sin?' and 'What kind of sacrifices does a holy God require from sinners?' It shows how people atone for their sins for God's forgiveness. Yet none can live up to God's standards but the promised one who is to come.",
+    "r": [
+      {
+        "d": "4",
+        "b": "Exodus 20:1-21"
+      },
+      {
+        "d": "5",
+        "b": "Leviticus 4:27-31"
+      },
+      {
+        "d": "",
+        "b": "Psalm 40:6-8"
+      }
+    ]
+  },
+  "3": {
+    "t": "Day 6",
+    "s": "Bible reading shows how even the best leaders can commit sin, and the kind of heart that God requires - more than the sacrifices and offerings - a broken and contrite heart.",
+    "r": [
+      {
+        "d": "6",
+        "b": "1 Samuel 11"
+      },
+      {
+        "d": "",
+        "b": "Psalm 51"
+      }
+    ]
+  },
+  "4": {
+    "t": "Days 7-9",
+    "s": "talk about the prophesies about Christ, preparing the way for Chris, and the birth of Christ",
+    "r": [
+      {
+        "d": "7",
+        "b": "Isaiah 53"
+      },
+      {
+        "d": "8",
+        "b": "Luke 3:1-22"
+      },
+      {
+        "d": "9",
+        "b": "Matthew 1:18-25"
+      }
+    ]
+  },
+  "5": {
+    "t": "Days 10-15",
+    "s": "features select Bible passages on Christ's ministry on earth. The passages portray Christ having the authority on earth to forgive sins, authority over unclean spirits, authority over creation, authority over death. The passages show the compassion of Christ towards men as He heals the sick.",
+    "r": [
+      {
+        "d": "10",
+        "b": "John 14:1-14"
+      },
+      {
+        "d": "11",
+        "b": "John 10:1-19"
+      },
+      {
+        "d": "12",
+        "b": "Matthew 9:1-8"
+      },
+      {
+        "d": "13",
+        "b": "Mark 1:21-28"
+      },
+      {
+        "d": "14",
+        "b": "Mark 4:35-41"
+      },
+      {
+        "d": "15",
+        "b": "Matthew 9:18-26"
+      }
+    ]
+  },
+  "6": {
+    "t": "Days 16-20",
+    "s": "show Bible passages that answer the questions, 'Who is the sinner?' and 'Who are the saved?'",
+    "r": [
+      {
+        "d": "16",
+        "b": "John 8:1-11"
+      },
+      {
+        "d": "17",
+        "b": "John 1:1-18"
+      },
+      {
+        "d": "18",
+        "b": "John 3:1-21"
+      },
+      {
+        "d": "19",
+        "b": "Hebrews 10:1-25"
+      },
+      {
+        "d": "20",
+        "b": "Ephesians 2:1-10"
+      },
+      {
+        "d": "15",
+        "b": "Matthew 9:18-26"
+      }
+    ]
+  }
+}
