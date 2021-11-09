@@ -1,23 +1,24 @@
 {
-  "5": {
-    "v": "John 1:1-18",
-    "m": "But to all who did receive him, who believed in his name, he gave the right to become children of God, who were born, not of blood nor of the will of the flesh nor of the will of man, but of God. - John 1:12-13",
+  "25": {
+    "v": "Psalm 16",
+    "m": "You make known to me the path of life; in your presence there is fullness of joy; at your right hand are pleasures forevermore. - Psalm 16:11 (ESV)",
+    "c": [[8,16],[8,11,16,22],[6,8,11,16,22,23]],
     "l": [
       {
         "i": "0",
-        "q": "What does verse 1 say about the Word?",
-        "a": "The Word was in the beginning with God. The Word was God. All things were made through him."
+        "q": "What happens those who run after other gods?",
+        "a": "the sorrows of those who run after other gods multiply."
       },
       {
         "i": "1",
-        "q": "What happened to the Word in verse 14? Who is the Word in verse 17?",
-        "a": "The Word became flesh and lived with us. Jesus Christ is the Word."
-      },
-      {
-        "i": "2",
-        "q": "What is the promise in verses 12 & 13?",
-        "a": "To all who received Jesus Christ and believed in his name, he gave the right to become children of God."
+        "q": "What are the benefits of taking refuge in God?",
+        "a": "God charts the paths of those who take refuge in Him. Their counsel is from the Lord, and they won't easily stumble in times of temptations and come out strong in the Lord in times of trials. In them are life and they are filled with joy. God has a beautiful inheritance for them."
       }
-    ]
+    ],
+    "s": {
+      "h": "Pleased as man with men to dwell \n Jesus, our Emmanuel",
+      "a": "Hark The Herald Angels Sing"
+    },
+    "a": "Enjoy a cup of warm chocolate or apple cider with someone who lives with you."
   }
 }

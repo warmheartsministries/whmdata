@@ -51,7 +51,7 @@
   },
   "4": {
     "t": "Days 7-9",
-    "s": "talk about the prophesies about Christ, preparing the way for Chris, and the birth of Christ",
+    "s": "talk about the prophesies about Christ, preparing the way for Christ, and the birth of Christ.",
     "r": [
       {
         "d": "7",
@@ -69,7 +69,7 @@
   },
   "5": {
     "t": "Days 10-15",
-    "s": "features select Bible passages on Christ's ministry on earth. The passages portray Christ having the authority on earth to forgive sins, authority over unclean spirits, authority over creation, authority over death. The passages show the compassion of Christ towards men as He heals the sick.",
+    "s": "features select Bible passages on Christ's ministry on earth. The passages portray Christ having the authority on earth to forgive sins, authority over unclean spirits, authority over creation, authority over death and the compassion of Christ towards men as He heals the sick.",
     "r": [
       {
         "d": "10",
@@ -90,10 +90,6 @@
       {
         "d": "14",
         "b": "Mark 4:35-41"
-      },
-      {
-        "d": "15",
-        "b": "Matthew 9:18-26"
       }
     ]
   },
@@ -120,10 +116,32 @@
       {
         "d": "20",
         "b": "Ephesians 2:1-10"
+      }
+    ]
+  },
+  "7": {
+    "t": "Days 21-25",
+    "s": "Bible readings focus on the hope that we have in Christ, and a beautiful inheritance from God that we have as saints.",
+    "r": [
+      {
+        "d": "21",
+        "b": "2 Corinthians 5:16-21"
       },
       {
-        "d": "15",
-        "b": "Matthew 9:18-26"
+        "d": "22",
+        "b": "Ephesians 1"
+      },
+      {
+        "d": "23",
+        "b": "Galatians 5:16-26"
+      },
+      {
+        "d": "24",
+        "b": "Romans 8:18-39"
+      },
+      {
+        "d": "25",
+        "b": "Psalm 16"
       }
     ]
   }
