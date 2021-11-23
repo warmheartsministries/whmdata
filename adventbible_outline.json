@@ -36,34 +36,34 @@
     ]
   },
   "3": {
-    "t": "Day 6",
-    "s": "Bible reading shows how even the best leaders can commit sin, and the kind of heart that God requires - more than the sacrifices and offerings - a broken and contrite heart.",
+    "t": "Days 6-8",
+    "s": "talk about the prophesies about Christ, preparing the way for Christ, and the birth of Christ.",
     "r": [
       {
         "d": "6",
+        "b": "Isaiah 53"
+      },
+      {
+        "d": "7",
+        "b": "Matthew 1:18-25"
+      },
+      {
+        "d": "8",
+        "b": "Luke 3:1-22"
+      }
+    ]
+  },
+  "4": {
+    "t": "Day 9",
+    "s": "Bible reading shows how even the best leaders can commit sin, and the kind of heart that God requires - more than the sacrifices and offerings - a broken and contrite heart.",
+    "r": [
+      {
+        "d": "9",
         "b": "1 Samuel 11"
       },
       {
         "d": "",
         "b": "Psalm 51"
-      }
-    ]
-  },
-  "4": {
-    "t": "Days 7-9",
-    "s": "talk about the prophesies about Christ, preparing the way for Christ, and the birth of Christ.",
-    "r": [
-      {
-        "d": "7",
-        "b": "Isaiah 53"
-      },
-      {
-        "d": "8",
-        "b": "Matthew 1:18-25"
-      },
-      {
-        "d": "9",
-        "b": "Luke 3:1-22"
       }
     ]
   },
